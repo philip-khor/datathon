@@ -1,0 +1,19 @@
+﻿"ifm_analysis_sensordata_for_datathon_final.machine_name";"ifm_analysis_sensordata_for_datathon_final.sensor_type";"ifm_analysis_sensordata_for_datathon_final.date_measurement";"ifm_analysis_sensordata_for_datathon_final.start_timestamp";"ifm_analysis_sensordata_for_datathon_final.end_timestamp";"ifm_analysis_sensordata_for_datathon_final.realvalue";"ifm_analysis_sensordata_for_datathon_final.unit"
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 15:26:42.823";"2016-09-02 15:26:42.823";0.395;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 15:26:45.653";"2016-09-02 15:26:45.653";0.577;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 15:26:48.467";"2016-09-02 15:26:48.467";0.717;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 15:26:51.293";"2016-09-02 15:26:51.293";0.832;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 15:26:54.107";"2016-09-02 15:26:54.107";0.941;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 15:26:56.933";"2016-09-02 15:26:56.933";1.042;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 15:26:59.763";"2016-09-02 15:26:59.763";1.106;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 15:27:02.577";"2016-09-02 15:27:02.577";1.176;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 15:27:05.403";"2016-09-02 15:27:05.403";1.245;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 15:27:08.217";"2016-09-02 15:27:08.217";1.258;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 18:14:34.57";"2016-09-02 18:14:34.57";1.417;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 18:14:37.4";"2016-09-02 18:14:37.4";1.451;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 18:14:40.21";"2016-09-02 18:14:40.21";1.462;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 18:14:43.04";"2016-09-02 18:14:43.04";1.491;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 18:14:45.867";"2016-09-02 18:14:45.867";1.523;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 18:14:48.68";"2016-09-02 18:14:48.68";1.568;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 18:14:51.507";"2016-09-02 18:14:51.507";1.616;mm/s
+RBG1;drive_gear_V_eff;2016-09-02;"2016-09-02 18:14:54.32";"2016-09-02 18:14:54.32";1.62;mm/s
